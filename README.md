@@ -14,6 +14,6 @@ A FastAPI-based web service that predicts survival chances on the Titanic using 
 - Python 3.8+
 - Docker (optional)
 
-## Installation
+
 
    
